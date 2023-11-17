@@ -1,0 +1,26 @@
+.language-ul {
+  text-decoration: none;
+}
+
+.btn {
+  border: 0;
+  background-color: transparent;
+  color: #0f172a;
+  flex-shrink: 0;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn-color {
+  border: 1px solid #22bdbd;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #22bdbd;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 3px 9px 3px 9px;
+  cursor: pointer;
+  outline: none;
+}
